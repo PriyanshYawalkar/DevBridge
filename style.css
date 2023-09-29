@@ -9,12 +9,14 @@ nav {
 }
 
 .container-text-center {
-    background-color: white;
+    padding: 80px;
     font-size: 35px;
+    margin: -8px;
+    padding-left: 115px;
     
 }
 .col {
-    /*color: #fff;*/
+    color: #fff;
 }
 
 .button-51 {
