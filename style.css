@@ -62,6 +62,10 @@ nav {
     background-color: #15690e;
 }
 
+h3 {
+    color: #fff;
+}
+
 @media (min-width: 768px) {
     .button-51 {
         padding: 16px 32px;
